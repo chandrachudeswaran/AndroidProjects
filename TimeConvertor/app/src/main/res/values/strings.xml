@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TimeConvertor</string>
+    <string name="action_settings">Settings</string>
+    <string name="utc_label">UTC:</string>
+    <string name="hours_label">HOURS</string>
+    <string name="colon_label">:</string>
+    <string name="minutes_label">MINUTES</string>
+    <string name="am_pm_label">AM/PM:</string>
+    <string name="result_label">Result:</string>
+    <string name="est_button_label">Eastern Standard Time (EST)</string>
+    <string name="cst_button_label">Central Standard Time (CST)</string>
+    <string name="mst_button_label">Mountain Standard Time (MST)</string>
+    <string name="clear_all_button_label">Clear All</string>
+    <string name="pst_button_label">Pacific Standard Time (PST)</string>
+</resources>
