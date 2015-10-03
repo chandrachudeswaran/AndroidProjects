@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Welcome to"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Trivia App"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/start_label"
+        android:id="@+id/start"
+        android:onClick="startTrivia"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/create_quiz_label"
+        android:id="@+id/create"
+        android:onClick="createQuestions"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/delete_questions_label"
+        android:id="@+id/delete"
+        android:onClick="deleteQuestions"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/exit_label"
+        android:id="@+id/exit"
+        android:onClick="exitApp"/>
+
+</LinearLayout>
