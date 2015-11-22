@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.chandra.galleryapp.GalleryActivity">
+
+    <item
+        android:id="@+id/showfav"
+        android:orderInCategory="100"
+        android:title="Show Favorites"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/clearfav"
+        android:orderInCategory="100"
+        android:title="Clear Favorites"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/showshared"
+        android:orderInCategory="100"
+        android:title="Show Shared"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/clearShared"
+        android:orderInCategory="100"
+        android:title="Clear Shared"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sharing"
+        android:orderInCategory="100"
+        android:title="Sharing Status"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/showall"
+        android:orderInCategory="100"
+        android:title="Show All"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="100"
+        android:title="Logout"
+        app:showAsAction="never" />
+</menu>

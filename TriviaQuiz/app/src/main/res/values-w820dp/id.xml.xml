@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <item name="refresh" type="id"/>
-    <item name="settings" type="id"/>
-    <item name="bar" type="id"/>
-    <item name="view" type="id"/>
-    <item name="imageURL" type="id"/>
-</resources>
