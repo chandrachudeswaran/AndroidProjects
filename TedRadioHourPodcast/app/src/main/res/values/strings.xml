@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ted Radio Hour Podcast</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="views_changes">ChangeViews</string>
+    <string name="title_activity_play">Play</string>
+    <string name="des_label">Description :</string>
+</resources>
