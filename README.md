@@ -24,6 +24,16 @@ This respository contains my android apps.
 
 ![gallery](https://cloud.githubusercontent.com/assets/10491786/11321961/328c0a68-90a2-11e5-93d9-f7b4abd8752e.png)   ![gallerymenu](https://cloud.githubusercontent.com/assets/10491786/11321962/3b30bfe2-90a2-11e5-98c0-0a3dad709602.png) ![favorites](https://cloud.githubusercontent.com/assets/10491786/11321963/3f66131e-90a2-11e5-9afd-ce8c68187cea.png) ![clearedfav](https://cloud.githubusercontent.com/assets/10491786/11321964/445cc714-90a2-11e5-883f-a8446f7275ea.png) ![sharedwith](https://cloud.githubusercontent.com/assets/10491786/11321965/4be0ae74-90a2-11e5-8b69-c94356338262.png) ![sharingstats](https://cloud.githubusercontent.com/assets/10491786/11321966/4f7da488-90a2-11e5-9abd-59a662d0a24c.png) ![details](https://cloud.githubusercontent.com/assets/10491786/11321967/54094444-90a2-11e5-8a07-4dbd9ba70b91.png)
 
+4) TedRadioHourPodcast: This app allows users to listen to TedRadio podcasts. The User interface is in Recycler -Listview and Recycler- Grid view. Users can stream audio in this app from TedRadio.
+
+
+![list](https://cloud.githubusercontent.com/assets/10491786/11322083/50724d66-90a8-11e5-8f43-48f5d743d381.png)
+![grid](https://cloud.githubusercontent.com/assets/10491786/11322082/506956fc-90a8-11e5-84e8-9affb59e9bd6.png)
+
+![play](https://cloud.githubusercontent.com/assets/10491786/11322085/5075c7ca-90a8-11e5-9eb6-5ec98e607e60.png)
+![loadingaudio](https://cloud.githubusercontent.com/assets/10491786/11322086/5075f3da-90a8-11e5-9f79-304e4904fb9b.png)
+![gridwithaudio](https://cloud.githubusercontent.com/assets/10491786/11322084/507562da-90a8-11e5-8d19-b9a53849b45a.png)
+
 
 
 
